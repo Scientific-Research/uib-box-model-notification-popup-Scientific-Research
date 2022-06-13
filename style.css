@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .notification : div */
+.notification {
+  background-color: tomato;
+  position: fixed;
+  width: 190px;
+  height: 60px;
+  right: 40px;
+  bottom: 30px;
+  padding: 20px;
+  /* border: 0; */
+
+  /* text-align: center; */
+}
+/* .close : button */
+.close img {
+  /* background-color: red; */
+  /* background: none; */
+  /* height: 70px; */
+  position: absolute;
+  /* border: 0; */
+  width: 32px;
+  height: 32px;
+  top: -20px;
+  right: -14px;
+}
+/* img : close.png */
+/* img { */
+/* position: absolute;
+  width: 32px;
+  height: 32px;
+  top: -40px;
+  right: -170px; */
+
+/* } */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.notification {
+  background: tomato;
+  bottom: 20px;
+  right: 20px;
+  position: fixed;
+  padding: 15px;
+}
+.notification .close {
+  background: none;
+  width: 32px;
+  height: 32px;
+  top: -16px;
+  right: -16px;
+  position: absolute;
+  border: 0;
+}
+.close img {
+  height: 100%;
+  width: 100%;
+} */
